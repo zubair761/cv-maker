@@ -1,0 +1,47 @@
+.spn{
+	color: #2196F3;
+	font-size:12px;
+}
+
+.sp{
+	color: #959FA7;
+	font-size: 10px;
+	margin-bottom: 15px;
+}
+.form{
+	color: #B2DAFB;
+	font-size: 8px;
+	padding-left: 20px;
+	margin-top: 40px;
+}
+.span{
+	font-size: 10px;
+	color:#B5BCC2
+}
+.name{
+	font-size: 12px;
+	color: #3C4F5E;
+	font-weight:bold;
+}
+.btn{
+	font-size: 10px;
+	color:#88C7F9;
+}
+.param{
+	font-size: 10px;
+	color:#9FA9B0;
+}
+.li{
+	font-size:12px;
+}
+.icon{
+	font-size:8px; 
+	color:#E0E0E0;
+}
+.msg{
+	color:#3C4F5E;
+	font-size:12px;
+}
+.fa{
+	
+}
